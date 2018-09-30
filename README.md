@@ -1,5 +1,5 @@
 # wslbox
-use linux commands from wsl more easily
+use linux commands in Windows from wsl more easily
 
 put files in their own dir like c:\linux and add that dir to path
 Install/Uninstall currently works in local directory
